@@ -1,0 +1,1629 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.63.7",
+	"files": [
+		{
+			"noteId": "root",
+			"notePath": [
+				"root"
+			],
+			"isClone": false,
+			"title": "root",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"format": "markdown",
+			"dirFileName": "root",
+			"noImport": false,
+			"attributes": [],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "6xb2a6gA3xzk",
+					"notePath": [
+						"root",
+						"6xb2a6gA3xzk"
+					],
+					"isClone": false,
+					"title": "2.6.34_rtc_drivers",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "2.6.34_rtc_drivers.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "GoR6cqlPwB36",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "2.6.34_rtc_drivers_image.png"
+						},
+						{
+							"attachmentId": "62O1u8zLoVVi",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "1_2.6.34_rtc_drivers_image.png"
+						},
+						{
+							"attachmentId": "ERlcjLvR0ab0",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "2_2.6.34_rtc_drivers_image.png"
+						},
+						{
+							"attachmentId": "rLgJtW8Tr8HM",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_2.6.34_rtc_drivers_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "nCF71UPbaLlT",
+					"notePath": [
+						"root",
+						"nCF71UPbaLlT"
+					],
+					"isClone": false,
+					"title": "register_chrdev",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "register_chrdev.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "Ucd2hH8nR40l",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "ax2sGkVfpnkC",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "9RT8JJBKx1jg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "TJYtxatRfxJV",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "eYcOgaGr2OAt",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "0ZIqjtxLutsq",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_register_chrdev_image.png"
+						},
+						{
+							"attachmentId": "kbNaFtX7Xfcq",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "6_register_chrdev_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "SbQIde2M4qB4",
+					"notePath": [
+						"root",
+						"SbQIde2M4qB4"
+					],
+					"isClone": false,
+					"title": "class",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "class.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "lKSW8G5cQQrF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "class_image.png"
+						},
+						{
+							"attachmentId": "GphcFx3rPbKU",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_class_image.png"
+						},
+						{
+							"attachmentId": "PGLnm0C2Iqcr",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_class_image.png"
+						},
+						{
+							"attachmentId": "GBGcHBcUa9IW",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_class_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "CTzehrsX8Kv4",
+					"notePath": [
+						"root",
+						"CTzehrsX8Kv4"
+					],
+					"isClone": false,
+					"title": "NOBLOCK",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "NOBLOCK.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "umwEZr5cV60x",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "NOBLOCK_image.png"
+						},
+						{
+							"attachmentId": "A5N2xbVCSBum",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_NOBLOCK_image.png"
+						},
+						{
+							"attachmentId": "RiIVXdmKq1cC",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_NOBLOCK_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "hizIzAIBHzAf",
+					"notePath": [
+						"root",
+						"hizIzAIBHzAf"
+					],
+					"isClone": false,
+					"title": "module_init",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "module_init.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "8SmOPk0n0H3v",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "module_init_image.png"
+						},
+						{
+							"attachmentId": "zr6toFibX3EC",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_module_init_image.png"
+						},
+						{
+							"attachmentId": "zFVMhv9x5Wpu",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_module_init_image.png"
+						},
+						{
+							"attachmentId": "zOFIjlBrf4dD",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_module_init_image.png"
+						},
+						{
+							"attachmentId": "CH87KryYPzaW",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "4_module_init_image.png"
+						},
+						{
+							"attachmentId": "El2Yf8CZq6GJ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "5_module_init_image.png"
+						},
+						{
+							"attachmentId": "JbtRHnUEtO8W",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "6_module_init_image.png"
+						},
+						{
+							"attachmentId": "oL4qzhqfrcok",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "7_module_init_image.png"
+						},
+						{
+							"attachmentId": "8PWDt4jqVH3X",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "8_module_init_image.png"
+						},
+						{
+							"attachmentId": "IIIPdIuaAKKX",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "9_module_init_image.png"
+						},
+						{
+							"attachmentId": "pC5aSebuBmDi",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "10_module_init_image.png"
+						},
+						{
+							"attachmentId": "WgOZeTlUSgMe",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "11_module_init_image.png"
+						},
+						{
+							"attachmentId": "TF03Dg1Lyme2",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "12_module_init_image.png"
+						},
+						{
+							"attachmentId": "GDCpw59jrBJB",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "13_module_init_image.png"
+						},
+						{
+							"attachmentId": "vqqg9Xru1aSH",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "14_module_init_image.png"
+						},
+						{
+							"attachmentId": "mcUXlRyWXoOd",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "15_module_init_image.png"
+						},
+						{
+							"attachmentId": "wx2GZsiPXVPF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "16_module_init_image.png"
+						},
+						{
+							"attachmentId": "Lnscxvb4AXgK",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "17_module_init_image.png"
+						},
+						{
+							"attachmentId": "VqRkadtVlAfI",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "18_module_init_image.png"
+						},
+						{
+							"attachmentId": "ccWFEHmWD6dA",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "19_module_init_image.png"
+						},
+						{
+							"attachmentId": "zTKH9Dk6xuEF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "20_module_init_image.png"
+						},
+						{
+							"attachmentId": "hol3z7yz0FCF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "21_module_init_image.png"
+						},
+						{
+							"attachmentId": "iHZGPmuPnseh",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "22_module_init_image.png"
+						},
+						{
+							"attachmentId": "awYZFmrzALrs",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "23_module_init_image.png"
+						},
+						{
+							"attachmentId": "DfXQPQv7cWTF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "24_module_init_image.png"
+						},
+						{
+							"attachmentId": "4U0rXT6fTtWJ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "25_module_init_image.png"
+						},
+						{
+							"attachmentId": "zmzQcub2S5wz",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "26_module_init_image.png"
+						},
+						{
+							"attachmentId": "t1OsH4Gvh3Ml",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "27_module_init_image.png"
+						},
+						{
+							"attachmentId": "s0IpTR3ca8Sj",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "28_module_init_image.png"
+						},
+						{
+							"attachmentId": "LAphJiMM0h7G",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "29_module_init_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "FxndLYhwkSzT",
+					"notePath": [
+						"root",
+						"FxndLYhwkSzT"
+					],
+					"isClone": false,
+					"title": "ifdefine_MACRO_Makefile",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "ifdefine_MACRO_Makefile.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "rkk9C1pcuPBY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "ifdefine_MACRO_Makefile_image."
+						},
+						{
+							"attachmentId": "k5NRuHqXlrKt",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_ifdefine_MACRO_Makefile_image."
+						}
+					]
+				},
+				{
+					"noteId": "z6BrxLgzOPcR",
+					"notePath": [
+						"root",
+						"z6BrxLgzOPcR"
+					],
+					"isClone": false,
+					"title": "insmod",
+					"notePosition": 80,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "insmod.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "borYuNZTNSWD",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "insmod_image.png"
+						},
+						{
+							"attachmentId": "c4TViyP8s0tb",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_insmod_image.png"
+						},
+						{
+							"attachmentId": "FSBxRj4CDOyf",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_insmod_image.png"
+						},
+						{
+							"attachmentId": "4wBKkZ1qCS9u",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_insmod_image.png"
+						},
+						{
+							"attachmentId": "Zjv8MTYxEyAM",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_insmod_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "rfaiIqHdo23V",
+					"notePath": [
+						"root",
+						"rfaiIqHdo23V"
+					],
+					"isClone": false,
+					"title": "syscall",
+					"notePosition": 90,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "syscall.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "fOaQ7rmsxZSF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "syscall_image.png"
+						},
+						{
+							"attachmentId": "KDAmh9MfNZbj",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_syscall_image.png"
+						},
+						{
+							"attachmentId": "1hmPuNYjFjU8",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_syscall_image.png"
+						},
+						{
+							"attachmentId": "bguK7hgjW5IH",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_syscall_image.png"
+						},
+						{
+							"attachmentId": "ORG3enzbblT3",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_syscall_image.png"
+						},
+						{
+							"attachmentId": "P5H0NTJLCJv2",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_syscall_image.png"
+						},
+						{
+							"attachmentId": "VBfyAbO5Vqb1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "6_syscall_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "zpEFBu3btyQg",
+					"notePath": [
+						"root",
+						"zpEFBu3btyQg"
+					],
+					"isClone": false,
+					"title": "soft_interrupt",
+					"notePosition": 100,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "soft_interrupt.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "pptnvDW172B3",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "TzRvkMg2mxgU",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "WKUOifByQpmI",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "QTqF4hjT5wW5",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "MidYjwu3Bu09",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "3hSe5FXgVqwg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "VVCpi8SHsJ9Y",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "6_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "o2iElcd1Ck9S",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "7_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "QsPZEUW2doGi",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "8_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "uh5EN3nH0F4q",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "9_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "60LCqwBbnQf4",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "10_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "lmBUc2DZSAfv",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "11_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "TFi3KEiEle2z",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "12_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "HnXPV7ECtKjU",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "13_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "YYXR0LfFv1vY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "14_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "Fv7qRsm6cu4r",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "15_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "kuXE5TfnSZwe",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "16_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "1dJ1s1dR8sl1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "17_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "ZF9Bvf3XqVC1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "18_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "gKP9VpqULxjg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "19_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "8lehHaKLVqe7",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "20_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "W6jHbJNQaycZ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "21_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "TZKf5mkaeaoc",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "22_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "ttaKhGJY28ar",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "23_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "7JrzjerDbesp",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "24_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "ZMdSbL3pp04f",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "25_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "tt6nLIYggSAK",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "26_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "pyr2qfsXOsxf",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "27_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "o1rdu77q4rTQ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "28_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "tH7h0QPg2zt6",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "29_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "1oNGHXUDmFLB",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "30_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "tkXZaHLjHDka",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "31_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "MJK2dAcDutci",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "32_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "6VEnOPmKlAc1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "33_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "V1mn5aQwb1qE",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "34_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "9thh2FBrSMHt",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "35_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "WHOECetQsMkG",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "36_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "kXwTa9HdOjaR",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "37_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "9AVgsQjHwlMe",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "38_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "gkWbRBE8YqYJ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "39_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "mZPiqMyyfSmp",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "40_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "Dk8YvkrDteoN",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "41_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "iqd8OtHBoFnO",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "42_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "NEwd9H4BdfCY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "43_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "pMxBZUfzI761",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "44_soft_interrupt_image.png"
+						},
+						{
+							"attachmentId": "QxE6ifSQQdwe",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "45_soft_interrupt_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "xuhZsANMhQeJ",
+					"notePath": [
+						"root",
+						"xuhZsANMhQeJ"
+					],
+					"isClone": false,
+					"title": "wait_queue",
+					"notePosition": 110,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "wait_queue.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "QzBnTdYOgpZv",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "wait_queue_image.png"
+						},
+						{
+							"attachmentId": "CuzTqhK4ggum",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "AwTdMuAC5lbU",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "1BStnUaPOS7A",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "HOHPfLxBRjJR",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "SpDaWnNN6tRJ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "5KwlsQFzpGvf",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "6_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "rMU9RPWfWu6E",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "7_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "0NKlRmjWjcXD",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "8_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "IROkppX4kUdY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "9_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "jzDHiNTaNWk8",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "10_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "1f9s8DKz5JOY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "11_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "BuY3gHcZtQ9r",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "12_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "7xwz11hvHucq",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "13_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "3LLIarfb4XVq",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "14_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "PoACP3rY41iT",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "15_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "SGvGluZhhrbj",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "16_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "BGn12AIX1PhB",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "17_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "d4k2MnGP8T2g",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "18_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "b4OWXyxqzWOJ",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "19_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "bu6gEHKoDlAl",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "20_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "ubpX2MVPY73a",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "21_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "T3JmQETS4kNt",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "22_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "sJ6F9FkVeCWk",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "23_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "tr9Y8yAhRpNH",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "24_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "wZhdAxwh1uoL",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "25_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "QpZl0pUAnvEr",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "26_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "0FweeEbcT8gY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "27_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "crmNJpjkKeuz",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "28_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "RHZdOctSGz0Y",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "29_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "QpvvLlvjcz8B",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "30_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "0Q04pZPSFW6v",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "31_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "iBbuq2qNVjQz",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "32_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "YlISos0MoPMg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "33_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "zz89kkso4vFp",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "34_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "w9HDVOjQKkSE",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "35_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "KvSvNNm3LYE1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "36_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "vrWrVnlkvqka",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "37_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "JssaoQGl8XWW",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "38_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "e2rXoSyOsjZj",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "39_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "1B9uPx8VAvBH",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "40_wait_queue_image.png"
+						},
+						{
+							"attachmentId": "ssQCFd02U40E",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "41_wait_queue_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "0q3MNJXJLdtw",
+					"notePath": [
+						"root",
+						"0q3MNJXJLdtw"
+					],
+					"isClone": false,
+					"title": "atomic_operations",
+					"notePosition": 120,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "atomic_operations.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "rJ1mZdwdJgxk",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "atomic_operations_image.png"
+						},
+						{
+							"attachmentId": "NUMXGPeAMDxr",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "1_atomic_operations_image.png"
+						},
+						{
+							"attachmentId": "yeQVkkRBnVVb",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_atomic_operations_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "cUIbfsXquvon",
+					"notePath": [
+						"root",
+						"cUIbfsXquvon"
+					],
+					"isClone": false,
+					"title": "per_cpu",
+					"notePosition": 130,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "per_cpu.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "rJXoRaGaDoNY",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "per_cpu_image.png"
+						},
+						{
+							"attachmentId": "IEQJKhwlT7Ti",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "4ZU6XDFhAcod",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "E2V3ZjV6LCiF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "LymHVjCwkEe8",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "WYmBrbez68vg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "5_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "AMrv24C826tD",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "6_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "bdclTYpy0ncf",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "7_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "Nba2HHWXS77b",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "8_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "yUmdKb2PFc9A",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "9_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "aSCMz6YqXh6N",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "10_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "rOxszZaBTnM1",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "11_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "gosHVHT1flnW",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "12_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "VsVcPypb3YMF",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "13_per_cpu_image.png"
+						},
+						{
+							"attachmentId": "LaO8KSLfmAyX",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "14_per_cpu_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "zwQHg798VSIe",
+					"notePath": [
+						"root",
+						"zwQHg798VSIe"
+					],
+					"isClone": false,
+					"title": "tasklet",
+					"notePosition": 140,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "tasklet.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				}
+			]
+		}
+	]
+}
